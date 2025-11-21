@@ -1,0 +1,269 @@
+{
+    "properties": [
+        {
+            "property": {
+                "size": true,
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true
+            },
+            "material": {
+                "texture0": false
+            },
+            "combo": {
+                "blendmode": true
+            },
+            "varialbe": {},
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "size": false,
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true
+            },
+            "combo": {
+                "shapetype": false,
+                "orbittype": false,
+                "colordirection": true
+            },
+            "varialbe": {
+                "width": true,
+                "linewidth": true,
+                "specSmoothing": false,
+                "speccount": true,
+                "specrange": false,
+                "speed": false,
+                "fillalpha": true,
+                "filldegress": false,
+                "smooth": false,
+                "uselighting": true,
+                "lightingwidth": true,
+                "lightingalpha": true,
+                "sensitivity": false,
+                "amplifiter": false,
+                "blockheight": true,
+                "useregularwave": false,
+                "regularamplifiter": false,
+                "regularstep": false,
+                "regularsensitivity": false
+            },
+            "colorbar": {
+                "visible": true
+            }
+        }
+    ]
+}
