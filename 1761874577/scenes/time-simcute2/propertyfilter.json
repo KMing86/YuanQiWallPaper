@@ -1,0 +1,101 @@
+{
+    "properties": [
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true,
+                "text": false,
+                "fontspace": true
+            },
+            "material": {},
+            "combo": {},
+            "varialbe": {
+                "use24hFormat": true,
+                "showSeconds": true,
+                "pointSize": true,
+                "vertical": false,
+                "useBackGroud": false,
+                "backGroundColor": false,
+                "horizontalalign": false,
+                "verticalalign": false,
+                "fontname": true
+            },
+            "colorbar": {}
+        },
+        {
+            "property": {
+                "size": true,
+                "position": false,
+                "rotation": false,
+                "scale": false,
+                "visible": true,
+                "color": true,
+                "alpha": true
+            },
+            "material": {
+                "texture0": false
+            },
+            "combo": {
+                "blendmode": true
+            },
+            "varialbe": {},
+            "colorbar": {}
+        }
+    ]
+}
